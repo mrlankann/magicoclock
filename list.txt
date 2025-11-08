@@ -1,3 +1,4 @@
 up0.hex
 up1.hex
 up2.hex
+test.hex
