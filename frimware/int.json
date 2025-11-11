@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Version": "1.0.0",
-      "URL": "https://example.com/myimages/example.esp32_dev.v2.bin"
+      "URL": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/frimware.bin"
     }
   ]
 }
