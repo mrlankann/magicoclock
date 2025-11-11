@@ -1,6 +1,4 @@
 {
-  "Configurations": [
-    {
       "Version": "1.0.0",
       "Frimware": [
                     {
@@ -15,7 +13,5 @@
                         "Addr": 8454144,
                         "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/down.bin"
                     }
-                  ]
-    }
-  ]
+                  ] 
 }
