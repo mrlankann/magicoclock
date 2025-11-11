@@ -1,6 +1,10 @@
 {
       "Version": "1.0.0",
       "Frimware": [
+	                {
+                        "Addr": 2162688,
+                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/frimware.bin"
+                    },
                     {
                         "Addr": 2162688,
                         "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/main.bin"
