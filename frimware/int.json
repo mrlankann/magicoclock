@@ -2,7 +2,20 @@
   "Configurations": [
     {
       "Version": "1.0.0",
-      "URL": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/frimware.bin"
+      "Frimware": [
+                    {
+                        "Addr": 2162688,
+                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/main.bin"
+                    },
+					{
+                        "Addr": 4259840,
+                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/music.bin"
+                    },
+					{
+                        "Addr": 8454144,
+                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/down.bin"
+                    }
+                  ]
     }
   ]
 }
