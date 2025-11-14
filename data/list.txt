@@ -1,8 +1,0 @@
-up0.hex
-itdata.hex
-up1.hex
-up2.hex
-test.hex
-no.hex
-big.hex
-down.hex

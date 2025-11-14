@@ -1,0 +1,8 @@
+up0.hex
+https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/data/itdata.hex
+up1.hex
+up2.hex
+test.hex
+no.hex
+big.hex
+down.hex
