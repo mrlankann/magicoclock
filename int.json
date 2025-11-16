@@ -23,48 +23,6 @@
 						"Info": "App",
 						"Size": 8388608,
                         "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/frimwarenew3.bin"
-                    },	  
-	                {
-                        "Version": "1.0.6",
-						"Info": "App",
-						"Size": 8388608,
-                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/frimwarenew2.bin"
-                    },		  
-	                {
-                        "Version": "1.0.5",
-						"Info": "App",
-						"Size": 8388608,
-                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/frimwarenew1.bin"
-                    },	  
-	                {
-                        "Version": "1.0.4",
-						"Info": "App",
-						"Size": 8388608,
-                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/frimwarenew.bin"
-                    },
-	                {
-                        "Version": "1.0.3",
-						"Info": "App",
-						"Size": 8388608,
-                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/frimware.bin"
-                    },
-                    {
-                        "Version": "1.0.2",
-						"Info": "App",
-						"Size": 2097152,
-                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/main.bin"
-                    },
-					{
-                        "Version": "1.0.1",
-						"Info": "App",
-						"Size": 2097152,
-                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/music1.bin"
-                    },
-					{
-                        "Version": "1.0.0",
-						"Info": "App",
-						"Size": 2097152,
-                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/down.bin"
                     }
                   ] 
 }
