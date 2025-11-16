@@ -3,6 +3,5 @@ https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/data/itd
 up1.hex
 up2.hex
 test.hex
-no.hex
 big.hex
 down.hex

@@ -1,7 +1,13 @@
 {
       "Board": "1.0.0",
       "Frimware": [
-    {
+                    {
+                        "Version": "1.1.2",
+						"Info": "App",
+						"Size": 8388608,
+                        "File": "https://raw.githubusercontent.com/mrlankann/magicoclock/refs/heads/main/frimware/frimwarenew9.bin"
+                    },	  
+                    {
                         "Version": "1.1.1",
 						"Info": "App",
 						"Size": 8388608,
