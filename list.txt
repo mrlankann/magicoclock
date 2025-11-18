@@ -1,4 +1,5 @@
 up0.hex
+new3.hex
 new2.hex
 new1.hex
 moi.hex
