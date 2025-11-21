@@ -1,4 +1,5 @@
 up0.hex
+nn2.dat
 mmm4.hex
 mmm.hex
 mmm1.hex
