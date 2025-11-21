@@ -2,6 +2,7 @@ up0.hex
 mmm.hex
 mmm1.hex
 mmm2.hex
+mmm3.hex
 new3.hex
 new2.hex
 new1.hex
